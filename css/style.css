@@ -154,3 +154,10 @@ position:relative;
 z-index:3;
 color:white;
 }
+
+.card p {
+    color: black;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 5px;
+}
